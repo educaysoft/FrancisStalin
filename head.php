@@ -10,6 +10,12 @@
 <head>
  <title> Educaysoft </title>
 <meta charset="utf-8"/>
+	<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<meta name="description" content="Biografía de Stalin Franciso" />
+
+	<meta property="og:image" content="https://highkickesmeraldas.com/FrancisStalin/images/fotoperfil.png" />
+	<meta property="og:image:width" content="100" />
+	<meta property="og:image:height" content="100" />
 <!----        <meta name="viewport" content="width=device-width, initial-scale=1" /> --->
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" type="text/css" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/assets/css/eys.css" />   
