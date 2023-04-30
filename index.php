@@ -3,23 +3,25 @@
 include("head.php");
 ?>
 
-
-<?php
-include("marco-right.php");
-?>
-   
- <?php
-include("marco-central.php");
-?>
- 
-
-
-
-
+<div  style="display: inline-block; width:100%" > 
 <?php
 include("marco-left.php")
 ?>
  
+  
+ <?php
+include("marco-central.php");
+?>
+ 
+<?php
+include("marco-right.php");
+?>
+ 
+
+</div>  
+
+
+
 <script >  
 
  document.title="Stalin"; 

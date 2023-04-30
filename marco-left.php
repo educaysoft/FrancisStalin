@@ -1,6 +1,5 @@
 
 
-<div  style="display: inline-block; width:100%" > 
   <div style="border-right:1px solid black;  float:left;  width:20%; height: 100vh; padding:1vw;">
     <div style="margin-top: 80px; ">
         <div style=" width: 10vw;  margin:auto ; padding:1px; border-radius:50%; " >
