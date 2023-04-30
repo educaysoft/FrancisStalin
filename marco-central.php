@@ -1,4 +1,4 @@
-<div style="float:left; width:60%; margin:60px auto; padding:1vw; border-left:1px solid gray; ">
+<div style="float:left; width:60%; margin:60px auto; padding:1vw; border-left:1px solid gray; border-right:1px solid gray;">
    <div  style="width: 100%;  ">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left; ">
