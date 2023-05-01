@@ -2,12 +2,12 @@
    <div  style="width: 100%;  ">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left; ">
-        	<h1>¿Quién es Stalin Francis?</h1>
+        	<h1>¿Quién es Stalin A. Francis Quinde.?</h1>
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
                 Posteado por:  Stalin Francis<br>
-                Fecha: 2021-08-17 <br>
+                Fecha: 2023-04-30 <br>
           </div>
         </div>
     </div>
